@@ -46,7 +46,7 @@ library = {
     --// Lua Dust Command Library
     Name = 'Dust - Lua Library';
     Version = 'LuaDust.lua Library; Module; 1.01.2.13';
-    Author = 'Reid Millam';
+    Author = 'RoyallyFlushed';
     
     TestFunction = {
         Name = 'Test Function';
