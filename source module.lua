@@ -147,7 +147,7 @@ library = {
         
         Out = {
             Name = 'Table Output Function';
-            Desc = 'Outputs all the values of in a given table with the given separator';
+            Desc = 'Outputs all the values in a given table with the given separator';
             Key = '0ghe5g';
             Active = true;
             Type = 'return';
